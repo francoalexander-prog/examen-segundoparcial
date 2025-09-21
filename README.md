@@ -4,4 +4,8 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Framework CSS elegido
 - Se ha elegido **Bootstrap 5.3.8** como framework principal.
+## Template
+- Nombre: Modern Business - Start Bootstrap Theme
+- Fuente: https://startbootstrap.com/template/modern-business
+- Licencia: MIT
 
