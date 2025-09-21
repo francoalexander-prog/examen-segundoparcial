@@ -15,7 +15,6 @@ export class Home implements OnInit {
     this.title.setTitle('Home - Examen Segundo Parcial');
   }
 
-  // Pide permiso real para notificaciones
   requestPermission() {
     if (!('Notification' in window)) {
       alert('Este navegador no soporta Notificaciones.');
