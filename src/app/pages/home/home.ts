@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, inject } from '@angular/core';
+import { Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-home',
@@ -6,6 +7,7 @@ import { Component } from '@angular/core';
   templateUrl: './home.html',
   styleUrl: './home.scss'
 })
-export class Home {
-
+export class Home implements OnInit {
+  private title = inject(Title);
+  ngOnInit(){ this.title.setTitle('Home - Examen Segundo Parcial'); }
 }
