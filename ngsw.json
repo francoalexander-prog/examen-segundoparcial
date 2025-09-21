@@ -1,0 +1,70 @@
+{
+  "configVersion": 1,
+  "timestamp": 1758428180656,
+  "index": "/examen-segundoparcial/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/examen-segundoparcial/chunk-2UDOW3DM.js",
+        "/examen-segundoparcial/chunk-36JCS6BF.js",
+        "/examen-segundoparcial/chunk-GTFPOSS6.js",
+        "/examen-segundoparcial/chunk-LSIBVDIA.js",
+        "/examen-segundoparcial/chunk-QHTZBYZH.js",
+        "/examen-segundoparcial/favicon.ico",
+        "/examen-segundoparcial/index.html",
+        "/examen-segundoparcial/main-H6Y4P2I2.js",
+        "/examen-segundoparcial/scripts-MB5VUMPY.js",
+        "/examen-segundoparcial/styles-QFA6ZGGP.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/examen-segundoparcial/chunk-2UDOW3DM.js": "526bebae158a3f4629e33ae03a695dc95f47b8c2",
+    "/examen-segundoparcial/chunk-36JCS6BF.js": "fcafc8da1f11bbba9af49dc368a8a14de305066b",
+    "/examen-segundoparcial/chunk-GTFPOSS6.js": "f12d695fa0b3f4d36f0dfb17117162d62a41ce21",
+    "/examen-segundoparcial/chunk-LSIBVDIA.js": "3569b43b5a439267eb90f5ce4f57eab9f31d20e2",
+    "/examen-segundoparcial/chunk-QHTZBYZH.js": "804b1865d8aebecaefa8a627e69416314f31eca1",
+    "/examen-segundoparcial/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/examen-segundoparcial/index.html": "dbc828f77ac9bdd3ccdba120736c199b6ff05272",
+    "/examen-segundoparcial/main-H6Y4P2I2.js": "1ddcc0a1a156cc6028a0316a05b910af36bd117f",
+    "/examen-segundoparcial/scripts-MB5VUMPY.js": "8602bf1350447dcacfc6c2bd8baa07b1230e30bd",
+    "/examen-segundoparcial/styles-QFA6ZGGP.css": "6fb1ba2e288d62cef84c526d040ad437ee30487b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
