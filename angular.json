@@ -28,8 +28,12 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/styles.scss"
-            ]
+              "src/styles.scss",
+              "src/assets/template/styles.css"
+            ],
+            "scripts": [
+  "src/assets/template/scripts.js"
+]
           },
           "configurations": {
             "production": {
@@ -83,8 +87,12 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/styles.scss"
-            ]
+              "src/styles.scss",
+              "src/assets/template/styles.css"
+            ],
+            "scripts": [
+  "src/assets/template/scripts.js"
+]
           }
         }
       }
